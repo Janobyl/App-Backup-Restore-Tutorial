@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App Backup Tutorial</string>
+    <string name="tab_title_backup">BACKUP</string>
+    <string name="tab_title_restore">RESTORE</string>
+
+    <string name="hint_backup_search">Search backup...</string>
+    <string name="hint_restore_search">Search restore...</string>
+
+    <string name="about_text">App Backup Restore Tutorial is a simple app that allows you to backup and restore your apps when in need.
+    \nVisit android.janobyl.com for more info</string>
+
+    <string name="dialog_title_permission">Permission Request</string>
+    <string name="dialog_content_permission">
+        For this app to work, you need to grant the required permissions.
+        \nDo you want to go to permission settings and grant permissions?
+    </string>
+</resources>
